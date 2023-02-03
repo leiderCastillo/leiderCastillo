@@ -23,6 +23,3 @@ Mi enfoque principal es el mantenimiento de software, el desarrollo web Front-En
 [![lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=leidercastillo&layout=compact&themes=wift)](https://github.com/anuraghazra/github-readme-stats)
  
 
-## Contacto 
- Web: https://leidercastillo.github.io/
-
