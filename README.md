@@ -18,7 +18,7 @@ Mi enfoque principal es el mantenimiento de software, el desarrollo web Front-En
  ![visualstudiocode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
  ![figma](https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white)
  
- ##Estadisticas 
+ ## Estadisticas 
  
 [![lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=leidercastillo&layout=compact&themes=wift)](https://github.com/anuraghazra/github-readme-stats)
  
