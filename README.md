@@ -5,11 +5,10 @@ Me considero una persona autodidacta y con ganas de aprender cada día más y m�
 
 ## Conocimientos
  Mi enfoque principal es el mantenimiento de software y el desarrollo web Front-End, esto con los lenguajes de programación que más me gustan como, JAVA,  Python, HTML, JavaScript,Flutter y CSS.
- Manejo sistemas basados en Linux como, Ubuntu, Linux Mint, actualmente como sistema principal Manjaro
+ Manejo sistemas basados en Linux como, Ubuntu, Linux Mint,ArchCraft, actualmente como sistema principal Manjaro.
+ Bases de Datos Relacionales y NoRelacionales, SqlServer, MySql.
+ 
 
-
-
-Te invito a que sigamos en contacto por: 
-Web: https://leidercastillo.github.io/
-Estoy aprendiendo JAVA 
+## Contacto 
+ Web: https://leidercastillo.github.io/
 
