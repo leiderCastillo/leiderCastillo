@@ -2,10 +2,10 @@
 * Estudiante de ingeniería de sistemas y apasionado por el mundo de la tecnología, en especial la programación 🤩.
 
 ## Un poco sobre mi 😊
-Me considero una persona autodidacta y con ganas de aprender cada día más y más, me encanta estar actualizado sobre temas de informática de todo el mundo, actualmente estoy trabajando en un proyecto de Universidad, donde generamos una aplicación programada en FLutter, con el objetivo de geolocalizar y entregrar de manera detallada la posición e información de los autobuses en la provincia de Ubaté 🌍.
+Me considero una persona autodidacta y con ganas de aprender cada día más y más, me encanta estar actualizado sobre temas de informática de todo el mundo 🌍.
 
 ## Conocimientos 🚀
-Mi enfoque principal es el desarrollo de aplicaciones móviles utilizando Flutter📱, junto con la programación web front-end y el mantenimiento de software 💻. Me apasiona trabajar con Flutter porque me permite crear aplicaciones atractivas, rápidas y altamente personalizables utilizando el lenguaje de programación Dart. Además, tengo experiencia en el mantenimiento y actualización de aplicaciones, lo que me permite garantizar que siempre estén funcionando de manera eficiente y efectiva.🚀
+Mi enfoque principal es el desarrollo de aplicaciones móviles utilizando el framework Flutter📱, junto con la programación web front-end y el mantenimiento de software 💻. Me apasiona trabajar con Flutter porque me permite crear aplicaciones atractivas, rápidas y altamente personalizables utilizando el lenguaje de programación Dart. Además, tengo experiencia en el mantenimiento y actualización de aplicaciones, lo que me permite garantizar que siempre estén funcionando de manera eficiente y efectiva.🚀
 
 
 ### Lenguajes 
